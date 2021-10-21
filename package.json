@@ -3,9 +3,28 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@prisma/client": "2.22.0"
+    "@prisma/client": "^2.30.3"
   },
   "devDependencies": {
-    "prisma": "2.22.0"
-  }
+    "@types/node": "^16.11.1",
+    "prisma": "^2.30.3",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeaganStokoe/xylo-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeaganStokoe/xylo-lab/issues"
+  },
+  "homepage": "https://github.com/KeaganStokoe/xylo-lab#readme"
 }
