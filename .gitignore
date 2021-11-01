@@ -26,3 +26,5 @@ yarn-error.log*
 .tern-port
 
 .env
+
+project-notes.txt
